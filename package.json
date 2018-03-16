@@ -1,0 +1,20 @@
+{
+  "name": "callbag-gun",
+  "version": "1.0.0",
+  "description": "Read from & write to gun using callbags",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/racido/callbag-gun.git"
+  },
+  "main": "readme.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "Sjoerd de Jong",
+  "license": "MIT",
+  "keywords": ["callbag", "gun"],
+  "devDependencies": {
+    "gun": "^0.9.98",
+    "tape": "^4.8.0"
+  }
+}
